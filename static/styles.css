@@ -1,5 +1,14 @@
 body {
     background: pink;
     color: black;
+    padding: 100;
+    text-align: center;
 
+}
+
+div{
+    background: palevioletred;
+    color: white;
+    text-align: center;
+    padding: 10;
 }
