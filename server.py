@@ -2,6 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)  
 # Flask implements an application. _name_ will be the central object
+#this is the GLOBAL way to instantiate Flask. Only for example
 
 @app.route("/")
 def index():
